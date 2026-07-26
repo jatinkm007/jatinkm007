@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I'm currently building Full-Stack MERN Applications and modern React projects.<br>- 🌱 I'm currently learning Backend Development, System Design, DSA, and AI-powered Web Applications.<br>- 🤝 I'm open to collaborating on Open Source, React, MERN Stack, and AI-based projects.<br>- 💬 Ask me about React.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Git, GitHub, and MERN-Stack Development.<br>- ⚡ Fun fact: I love turning ideas into fully functional products and believe "Consistency beats motivation."
+- 🔭 I'm currently building Full-Stack MERN Applications and modern React projects.<br>- 🌱 I'm currently learning Backend Development, System Design, DSA, and AI-powered Web Applications.<br>- 🤝 I'm open to collaborating on Open Source, React, MERN Stack, and AI-based projects.<br>- 💬 Ask me about React.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Git, GitHub, and MERN-Stack Development.<br>- ⚡ Fun fact: I love turning ideas into fully functional products and believe "Consistency beats motivation."
 
 
 ## 🌐 Socials:
